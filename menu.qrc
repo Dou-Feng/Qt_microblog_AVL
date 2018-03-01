@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>images/play.png</file>
+        <file>images/main17x.png</file>
+        <file>images/main264x.png</file>
+        <file>images/back.png</file>
+        <file>images/back2.png</file>
+        <file>images/button2.jpg</file>
+        <file>images/button.png</file>
+    </qresource>
+</RCC>
